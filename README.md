@@ -1,3 +1,3 @@
 # ImmersiveDataAnalysis
-GDG Cloud Calgary Event - 31 May, 2018
+GDG Cloud Calgary DevFest'18 - Nov 03, 2018.
 Comming Soon!!!
